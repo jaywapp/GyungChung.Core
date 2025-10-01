@@ -1,9 +1,7 @@
 ﻿using MongoDB.Bson.Serialization.Attributes;
 using MongoDB.Bson;
-using System.Security;
-using GyungChung.Models;
 
-namespace GyungChung.API.Models
+namespace GyungChung.Core.Models
 {
     public class Member
     {

@@ -1,4 +1,4 @@
-﻿namespace GyungChung.Models
+﻿namespace GyungChung.Core
 {
     public enum ePermission
     {
